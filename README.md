@@ -3,7 +3,7 @@ Display Rate Message after period of time User open the app !
 
 This is a good example on how to use `SKStoreReviewController.requestReview()`
 
-It will count how many User did open the app 
+It will counting how many time User did open the app 
 and after period of time it will display Rate Message 
 
 ## How to use it ?
